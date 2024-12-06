@@ -1,0 +1,5 @@
+monoton_uniform_mean,faithfulness_correlation_uniform_mean,monoton_mean_mean,faithfulness_correlation_mean_mean,monoton_uniform_std,faithfulness_correlation_uniform_std,monoton_mean_std,faithfulness_correlation_mean_std,method,normalize,tsr,transformer,epochs
+0.0,-0.3214440621039255,1.0,-0.5346997930950044,0.0,0.2736099728237058,0.0,0.257376919511115,FO,True,True,,
+0.0,-0.25320349256325814,1.0,-0.48127302636578273,0.0,0.26980207700085596,0.0,0.26968712647060494,GRAD,True,True,,
+0.0,-0.3165775026794947,1.0,-0.5656395140928636,0.0,0.28278598078378836,0.0,0.19462938233493543,FA,True,True,,
+0.0,0.02011151226970783,1.0,-0.063822916371763,0.0,0.27459701492576305,0.0,0.2553173209135653,,,,authentic_opposing_information,30

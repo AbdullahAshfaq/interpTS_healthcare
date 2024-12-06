@@ -1,0 +1,5 @@
+complexity_mean,<quantus.metrics.complexity.effective_complexity.EffectiveComplexity object at 0x7f3d46419e90>_mean,complexity_std,<quantus.metrics.complexity.effective_complexity.EffectiveComplexity object at 0x7f3d46419e90>_std,method,normalize,tsr,transformer,epochs
+3.3411672696288806,95.0,0.9057639824689386,0.0,FO,True,True,,
+3.277246435080886,94.5,1.1948947656843425,0.7071067811865476,GRAD,True,True,,
+3.1760449758100497,95.0,0.8671191538923458,0.0,FA,True,True,,
+4.270919401154228,96.0,0.10117605568188401,0.0,,,,authentic_opposing_information,30

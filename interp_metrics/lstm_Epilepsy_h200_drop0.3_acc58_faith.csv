@@ -1,0 +1,4 @@
+method,normalize,tsr,transformer,epochs
+GRAD,True,True,,
+FA,True,True,,
+,,,authentic_opposing_information,30
