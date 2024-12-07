@@ -65,6 +65,8 @@ Notebooks for LSTM and CNN models are separate for this.
 
 Open the `lstm_benchmarks.ipynb` notebook for LSTM and the corresponding for CNN models. Change the `dataset` variable to either `['ECG200','ECG5000','Epilepsy']` and run all the cells. For each dataset, 4 csvs will be generated (one for each metric category i.e. Coutnerfactual(CF), Faithfulness, Reliability, Complexity) and will be saved in `interp_metrics`.
 
+**Note**: For each dataset and evaluation metric, it may take 40-60 min to run. So overall, this process takes ~10hr
+
 ### 5. Visualizing Quantative results
 
 To plot charts to compare various metrics for all models and datasets, run the notebook `results_viz.ipynb` with classifier `(lstm, cnn)` and dataset `['ECG200','ECG5000','Epilepsy']`. It will take the csv results generated in the last step and plot them. The plots are saved in `interp_metrics`.
